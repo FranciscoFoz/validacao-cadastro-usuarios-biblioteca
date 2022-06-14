@@ -15,7 +15,7 @@ Elaborado por Francico Foz
 
 Olá! 
 
-Neste repositório você encontrará o projeto do meu [artigo]() 
+Neste repositório você encontrará o projeto do meu [artigo](https://franciscofoz.medium.com/validando-dados-de-usu%C3%A1rios-da-biblioteca-com-regex-no-python-792c19c1715f) 
 
 
 ## Resumo
