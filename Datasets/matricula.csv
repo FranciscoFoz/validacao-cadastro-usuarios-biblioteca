@@ -1,0 +1,1010 @@
+ID,RA,UF,CIDADE,TELEFONE,EMAIL,CURSO
+38,202210435,AC,Rio Branco,68976666666,Inválido,Negócios Imobiliários
+46,202210513,AC,Rio Branco,68991128727,Inválido,Negócios Imobiliários
+52,202210551,AC,Rio Branco,68980743830,Inválido,Educação Física
+53,202210574,AC,Rio Branco,68982847367,Inválido,Ciência de Dados
+80,202210828,AC,Rio Branco,68996455542,Inválido,Arquitetura de Dados
+118,202211231,AC,Rio Branco,68974371653,Inválido,Criminologia
+140,202211486,AC,Rio Branco,68974474855,Inválido,Biomedicina
+140,202111486,AC,Rio Branco,68974474855,Inválido,Criminologia
+140,202011486,AC,Rio Branco,68974474855,Inválido,Fisioterapia
+140,202211486,AC,Rio Branco,68974474855,Inválido,Biomedicina
+142,202211525,AC,Rio Branco,68987464559,Inválido,Design de Interiores
+160,202211752,AC,Rio Branco,68976224438,Inválido,Análise e Desenvolvimento de Sistemas
+168,202211807,AC,Rio Branco,68981524486,Inválido,Fisioterapia
+175,202211881,AC,Rio Branco,68993135672,Inválido,Direito
+193,202212035,AC,Rio Branco,68982615661,Inválido,Direito
+210,202212147,AC,Rio Branco,68972024821,Inválido,Arquitetura de Dados
+305,202213100,AC,Rio Branco,68979355654,Inválido,Biomedicina
+310,202213125,AC,Rio Branco,68972712728,Inválido,Teologia
+327,202213230,AC,Rio Branco,68993861127,Inválido,Engenharia Civil
+387,202213845,AC,Rio Branco,68983681526,Inválido,Gastronomia
+584,202215744,AC,Rio Branco,,Inválido,Radiologia
+593,202215848,AC,Rio Branco,68991066667,Inválido,Produção Cervejeira
+613,202216042,AC,Rio Branco,68974371653,Inválido,Ciências Biológicas
+626,202216192,AC,Rio Branco,68987434895,Inválido,Teologia
+674,202216561,AC,Rio Branco,68972826938,Inválido,Geografia
+723,202216921,AC,Rio Branco,68974105008,Inválido,Educação Física
+725,202216937,AC,Rio Branco,68994614741,Inválido,Educação Física
+782,202217523,AC,Rio Branco,68991816148,Inválido,Análise e Desenvolvimento de Sistemas
+794,202217589,AC,Rio Branco,68976325822,Inválido,Administração
+828,202217995,AC,Rio Branco,68984994194,Inválido,Análise e Desenvolvimento de Sistemas
+860,202218343,AC,Rio Branco,68974625466,Inválido,Negócios Imobiliários
+951,202219482,AC,Rio Branco,68973279866,Inválido,Negócios Imobiliários
+957,202219523,AC,Rio Branco,68973075624,Inválido,Criminologia
+983,202219792,AC,Rio Branco,68969158848,Inválido,Arquitetura de Dados
+991,202219863,AC,Rio Branco,68871520623,Inválido,Biomedicina
+18,202210154,AL,Maceió,82973023226,Inválido,Administração
+28,202210285,AL,Maceió,82976311138,Inválido,Análise e Desenvolvimento de Sistemas
+64,202210675,AL,Maceió,82991284247,Inválido,Desenvolvimento Web
+66,202210688,AL,Maceió,82992417549,Inválido,Filosofia
+69,202210746,AL,Maceió,82973248837,Inválido,Gestão Pública
+89,202210934,AL,Maceió,82975839886,Inválido,Produção Cervejeira
+99,202211009,AL,Maceió,82993547675,Inválido,Ciência de Dados
+99,202111009,AL,Maceió,82993547675,Inválido,Engenharia de Software
+136,202211429,AL,Maceió,82994801445,Inválido,Engenharia de Software
+157,202211732,AL,Maceió,82994551773,Inválido,Produção Cervejeira
+189,202212018,AL,Maceió,82975258319,Inválido,Radiologia
+197,202212048,AL,Maceió,82994613178,Inválido,Gastronomia
+202,202212071,AL,Maceió,82975807120,Inválido,Fotografia
+206,202212123,AL,Maceió,82992475033,Inválido,Pedagogia
+221,202212237,AL,Maceió,82991426644,Inválido,Geografia
+221,202012237,AL,Maceió,82991426644,Inválido,História
+221,202112237,AL,Maceió,82991426644,Inválido,Administração
+222,202212247,AL,Maceió,82968360382,Inválido,Teologia
+295,202212991,AL,Maceió,82974068222,Inválido,Administração
+298,202213058,AL,Maceió,82973840836,Inválido,Teologia
+300,202213065,AL,Maceió,82994547256,Inválido,Produção Cervejeira
+302,202213068,AL,Maceió,82993168082,Inválido,Gestão Pública
+356,202213526,AL,Maceió,82992640468,Inválido,Radiologia
+362,202213563,AL,Maceió,82993612198,Inválido,Fisioterapia
+378,202213764,AL,Maceió,82992829724,Inválido,Ciências Biológicas
+481,202214706,AL,Maceió,82975839886,Inválido,Engenharia Elétrica
+494,202214837,AL,Maceió,82976170491,Inválido,Pedagogia
+507,202214954,AL,Maceió,82968183079,Inválido,Criminologia
+512,202215011,AL,Maceió,82973840836,Inválido,Gastronomia
+519,202215130,AL,Maceió,82974105684,Inválido,Teologia
+522,202215147,AL,Maceió,82968612205,Inválido,Engenharia Civil
+542,202215315,AL,Maceió,82973247002,Inválido,Engenharia Elétrica
+558,202215491,AL,Maceió,82968268487,Inválido,Educação Física
+583,202215738,AL,Maceió,82974869635,Inválido,Engenharia Elétrica
+588,202215789,AL,Maceió,82975242442,Inválido,Fotografia
+609,202216030,AL,Maceió,82991263228,Inválido,Fisioterapia
+673,202216554,AL,Maceió,82999250449,Inválido,Fotografia
+704,202216817,AL,Maceió,82992578311,Inválido,Fotografia
+720,202216903,AL,Maceió,82968202158,Inválido,Gastronomia
+748,202217166,AL,Maceió,82975754894,Inválido,Engenharia de Software
+767,202217372,AL,Maceió,82992640468,Inválido,Administração
+792,202217584,AL,Maceió,82975454461,Inválido,Farmácia
+800,202217671,AL,Maceió,82973231226,Inválido,Direito
+820,202217900,AL,Maceió,82993547926,Inválido,Desenvolvimento Web
+835,202218076,AL,Maceió,82975778641,Inválido,Filosofia
+866,202218366,AL,Maceió,82994741872,Inválido,Biomedicina
+870,202218397,AL,Maceió,82991363688,Inválido,Produção Cervejeira
+916,202219113,AL,Maceió,82973728517,Inválido,Design de Interiores
+926,202219179,AL,Maceió,82992928521,Inválido,Design de Interiores
+930,202219210,AL,Maceió,82976775736,Inválido,Educação Física
+958,202219530,AL,Maceió,82992231153,Inválido,Radiologia
+62,202210662,AM,Manaus,92971497870,Inválido,Engenharia de Software
+76,202210801,AM,Manaus,92969962230,Inválido,Educação Física
+88,202210925,AM,Manaus,92989031237,Inválido,Teologia
+112,202211172,AM,Manaus,92974491228,Inválido,Fotografia
+119,202211242,AM,Manaus,92986836517,Inválido,Design de Interiores
+124,202211328,AM,Manaus,92982710172,Inválido,Ciência de Dados
+132,202211380,AM,Manaus,92973416216,Inválido,Ciências Biológicas
+155,202211716,AM,Manaus,92971372952,Inválido,Negócios Imobiliários
+185,202211985,AM,Manaus,92986018378,Inválido,Administração
+224,202212286,AM,Manaus,92974556821,Inválido,Design de Interiores
+260,202212616,AM,Manaus,92976854576,Inválido,Gastronomia
+278,202212799,AM,Manaus,92999662750,Inválido,Produção Cervejeira
+279,202212802,AM,Manaus,92981362240,Inválido,Farmácia
+376,202213742,AM,Manaus,92975269461,Inválido,Geografia
+383,202213804,AM,Manaus,92985287953,Inválido,Filosofia
+415,202214073,AM,Manaus,92980402581,Inválido,Análise e Desenvolvimento de Sistemas
+419,202214118,AM,Manaus,92988816359,Inválido,Filosofia
+492,202214820,AM,Manaus,92968656745,Inválido,Biomedicina
+565,202215607,AM,Manaus,92977777777,Inválido,Filosofia
+580,202215720,AM,Manaus,92985557934,Inválido,Criminologia
+595,202215874,AM,Manaus,92988518127,Inválido,Educação Física
+605,202215984,AM,Manaus,92971787788,Inválido,Biomedicina
+608,202216023,AM,Manaus,92992833102,Inválido,Produção Cervejeira
+617,202216083,AM,Manaus,92972583980,Inválido,Engenharia Civil
+636,202216261,AM,Manaus,92985294726,Inválido,Geografia
+642,202216327,AM,Manaus,,Inválido,Fotografia
+719,202216888,AM,Manaus,92983205586,Inválido,Pedagogia
+743,202217125,AM,Manaus,92973416216,Inválido,Educação Física
+772,202217414,AM,Manaus,92982518585,Inválido,Educação Física
+774,202217428,AM,Manaus,92971671167,Inválido,Engenharia Elétrica
+810,202217769,AM,Manaus,92988737260,Inválido,Engenharia Civil
+836,202218082,AM,Manaus,92976857336,Inválido,Desenvolvimento Web
+894,202218787,AM,Manaus,,Inválido,Gastronomia
+952,202219486,AM,Manaus,92982518585,Inválido,Engenharia Civil
+959,202219536,AM,Manaus,92985616731,Inválido,Ciências Biológicas
+981,202219761,AM,Manaus,92986472302,Inválido,Ciências Biológicas
+990,202219856,AM,Manaus,92985773706,Inválido,Teologia
+999,202219925,AM,Manaus,92973831617,Inválido,Ciência de Dados
+70,202210760,AP,Macapá,96975654761,Inválido,Biomedicina
+75,202210800,AP,Macapá,96976163152,Inválido,Educação Física
+109,202211144,AP,Macapá,96996463992,Inválido,Radiologia
+127,202211356,AP,Macapá,96979765032,Inválido,Educação Física
+130,202211363,AP,Macapá,96983851478,Inválido,Radiologia
+144,202211533,AP,Macapá,96998742216,Inválido,Geografia
+159,202211751,AP,Macapá,96976946487,Inválido,Desenvolvimento Web
+171,202211823,AP,Macapá,96969717408,Inválido,Engenharia Elétrica
+232,202212337,AP,Macapá,96975759514,Inválido,Administração
+294,202212985,AP,Macapá,96983415837,Inválido,Análise e Desenvolvimento de Sistemas
+342,202213372,AP,Macapá,96973318686,Inválido,Engenharia Civil
+395,202213916,AP,Macapá,96991674170,Inválido,Farmácia
+398,202213945,AP,Macapá,96989139840,Inválido,Teologia
+430,202214193,AP,Macapá,96982736043,Inválido,Produção Cervejeira
+445,202214360,AP,Macapá,96986763036,Inválido,Fotografia
+450,202214391,AP,Macapá,96982912127,Inválido,Geografia
+456,202214436,AP,Macapá,96968579670,Inválido,Farmácia
+457,202214438,AP,Macapá,96987541914,Inválido,Pedagogia
+460,202214454,AP,Macapá,96972618112,Inválido,Produção Cervejeira
+478,202214673,AP,Macapá,96971084455,Inválido,Radiologia
+480,202214692,AP,Macapá,96992252751,Inválido,Farmácia
+537,202215272,AP,Macapá,96979249162,Inválido,Direito
+587,202215784,AP,Macapá,96976163152,Inválido,Engenharia Elétrica
+722,202216904,AP,Macapá,96968579670,Inválido,Produção Cervejeira
+766,202217357,AP,Macapá,96982150888,Inválido,Nutrição
+768,202217377,AP,Macapá,96987639217,Inválido,Engenharia Elétrica
+773,202217422,AP,Macapá,96995070789,Inválido,Gastronomia
+785,202217543,AP,Macapá,96997444332,Inválido,Gestão Pública
+789,202217576,AP,Macapá,96993448606,Inválido,Gastronomia
+936,202219287,AP,Macapá,96979889533,Inválido,Direito
+984,202219794,AP,Macapá,96979249162,Inválido,Direito
+44,202210497,BA,Salvador,71969871386,Inválido,Fotografia
+57,202210617,BA,Salvador,71999895712,Inválido,Produção Cervejeira
+82,202210840,BA,Salvador,71998976323,Inválido,Engenharia Elétrica
+100,202211016,BA,Salvador,71980747839,Inválido,Fotografia
+131,202211370,BA,Salvador,71971376584,Inválido,Análise e Desenvolvimento de Sistemas
+134,202211414,BA,Salvador,71995226369,Inválido,Gastronomia
+181,202211948,BA,Salvador,71999163262,Inválido,Engenharia de Software
+215,202212201,BA,Salvador,71967701365,Inválido,Fotografia
+230,202212333,BA,Salvador,71999285807,Inválido,Gastronomia
+235,202212364,BA,Salvador,71999853261,Inválido,Engenharia Civil
+262,202212647,BA,Salvador,71997824867,Inválido,Ciências Biológicas
+284,202212844,BA,Salvador,71999233480,Inválido,Gestão Pública
+286,202212886,BA,Salvador,71996712727,Inválido,Análise e Desenvolvimento de Sistemas
+314,202213151,BA,Salvador,71999351816,Inválido,Fisioterapia
+317,202213176,BA,Salvador,71996508287,Inválido,Direito
+353,202213513,BA,Salvador,71981536833,Inválido,Farmácia
+393,202213897,BA,Salvador,71971012977,Inválido,Radiologia
+447,202214367,BA,Salvador,71999361785,Inválido,Análise e Desenvolvimento de Sistemas
+449,202214388,BA,Salvador,71972186570,Inválido,Engenharia Elétrica
+548,202215382,BA,Salvador,71967363674,Inválido,Arquitetura de Dados
+649,202216358,BA,Salvador,71997948079,Inválido,Farmácia
+655,202216399,BA,Salvador,71999303415,Inválido,Filosofia
+659,202216414,BA,Salvador,71997560707,Inválido,Biomedicina
+696,202216754,BA,Salvador,71971251111,Inválido,Educação Física
+806,202217754,BA,Salvador,71971241286,Inválido,Pedagogia
+834,202218064,BA,Salvador,71996287193,Inválido,Fisioterapia
+842,202218184,BA,Salvador,71996551545,Inválido,Engenharia de Software
+907,202218992,BA,Salvador,71982246631,Inválido,Negócios Imobiliários
+910,202219019,BA,Salvador,71972036153,Inválido,Fotografia
+978,202219743,BA,Salvador,71967636535,Inválido,Farmácia
+58,202210634,CE,Fortaleza,85993600325,Inválido,Produção Cervejeira
+59,202210650,CE,Fortaleza,85981388299,Inválido,Filosofia
+68,202210744,CE,Fortaleza,85997556147,Inválido,Produção Cervejeira
+115,202211210,CE,Fortaleza,85980864994,Inválido,Ciência de Dados
+167,202211804,CE,Fortaleza,85981552182,Inválido,Fisioterapia
+217,202212223,CE,Fortaleza,85975975167,Inválido,Teologia
+246,202212456,CE,Fortaleza,85985866423,Inválido,Negócios Imobiliários
+273,202212780,CE,Fortaleza,85968411725,Inválido,Nutrição
+290,202212949,CE,Fortaleza,85972377736,Inválido,Gestão Pública
+299,202213064,CE,Fortaleza,85989956961,Inválido,Nutrição
+303,202213071,CE,Fortaleza,85981233195,Inválido,Ciência de Dados
+313,202213147,CE,Fortaleza,85976388742,Inválido,Gestão Pública
+345,202213411,CE,Fortaleza,85989741581,Inválido,Ciências Biológicas
+432,202214197,CE,Fortaleza,85972078386,Inválido,Negócios Imobiliários
+446,202214362,CE,Fortaleza,85998600560,Inválido,Engenharia Elétrica
+455,202214434,CE,Fortaleza,85993126285,Inválido,Direito
+482,202214709,CE,Fortaleza,85996874107,Inválido,Design de Interiores
+502,202214924,CE,Fortaleza,85999865326,Inválido,Fisioterapia
+518,202215114,CE,Fortaleza,85974861647,Inválido,Radiologia
+530,202215241,CE,Fortaleza,85974624758,Inválido,Administração
+545,202215338,CE,Fortaleza,85971362732,Inválido,Gastronomia
+582,202215737,CE,Fortaleza,85985165155,Inválido,Biomedicina
+585,202215751,CE,Fortaleza,85999674033,Inválido,Geografia
+601,202215944,CE,Fortaleza,85989409333,Inválido,Desenvolvimento Web
+616,202216075,CE,Fortaleza,85991278521,Inválido,Educação Física
+638,202216293,CE,Fortaleza,85980097428,Inválido,Gestão Pública
+652,202216377,CE,Fortaleza,85989327237,Inválido,Fisioterapia
+738,202217063,CE,Fortaleza,85988276886,Inválido,Negócios Imobiliários
+750,202217187,CE,Fortaleza,85984357654,Inválido,Arquitetura de Dados
+790,202217580,CE,Fortaleza,85985694065,Inválido,Design de Interiores
+811,202217771,CE,Fortaleza,85996704866,Inválido,Fisioterapia
+878,202218459,CE,Fortaleza,85983424366,Inválido,Design de Interiores
+905,202218976,CE,Fortaleza,85992658115,Inválido,Farmácia
+917,202219120,CE,Fortaleza,85971522410,Inválido,Engenharia Civil
+919,202219136,CE,Fortaleza,85988148125,Inválido,Nutrição
+921,202219144,CE,Fortaleza,85998730707,Inválido,Engenharia Elétrica
+945,202219406,CE,Fortaleza,85995043663,Inválido,Gastronomia
+970,202219607,CE,Fortaleza,85993251914,Inválido,Administração
+982,202219787,CE,Fortaleza,85972845310,Inválido,Criminologia
+12,202210070,DF,Brasília,61972717294,Inválido,Criminologia
+19,202210162,DF,Brasília,61989078975,Inválido,Filosofia
+40,202210441,DF,Brasília,61995336813,Inválido,Engenharia Civil
+81,202210834,DF,Brasília,61972847725,Inválido,Ciências Biológicas
+133,202211393,DF,Brasília,61981564211,Inválido,Fisioterapia
+162,202211760,DF,Brasília,61984734693,Inválido,Negócios Imobiliários
+165,202211791,DF,Brasília,61995814266,Inválido,Análise e Desenvolvimento de Sistemas
+201,202212067,DF,Brasília,61996711574,Inválido,Design de Interiores
+248,202212470,DF,Brasília,61979846412,Inválido,Nutrição
+250,202212491,DF,Brasília,61976468627,Inválido,Filosofia
+255,202212556,DF,Brasília,61967181344,Inválido,Teologia
+287,202212896,DF,Brasília,61985884137,Inválido,Teologia
+289,202212948,DF,Brasília,61984836496,Inválido,Fotografia
+293,202212978,DF,Brasília,61988788451,Inválido,Engenharia de Software
+297,202213047,DF,Brasília,61991060846,Inválido,Engenharia Civil
+338,202213340,DF,Brasília,61983404458,Inválido,Direito
+344,202213409,DF,Brasília,61982761018,Inválido,Produção Cervejeira
+406,202214013,DF,Brasília,61981889641,Inválido,Direito
+461,202214485,DF,Brasília,61996532111,Inválido,Ciências Biológicas
+468,202214555,DF,Brasília,61995276612,Inválido,Filosofia
+581,202215729,DF,Brasília,61982708338,Inválido,Ciências Biológicas
+662,202216441,DF,Brasília,61999767589,Inválido,Fotografia
+669,202216504,DF,Brasília,61991926743,Inválido,Design de Interiores
+671,202216518,DF,Brasília,61999015884,Inválido,Gestão Pública
+698,202216788,DF,Brasília,61994583255,Inválido,Engenharia Elétrica
+703,202216816,DF,Brasília,61973365325,Inválido,Pedagogia
+778,202217486,DF,Brasília,61991637633,Inválido,Desenvolvimento Web
+784,202217530,DF,Brasília,61986330741,Inválido,Geografia
+802,202217703,DF,Brasília,61994668421,Inválido,Teologia
+822,202217919,DF,Brasília,61980463238,Inválido,Fotografia
+885,202218627,DF,Brasília,61987415462,Inválido,Design de Interiores
+904,202218963,DF,Brasília,61996772211,Inválido,Design de Interiores
+929,202219203,DF,Brasília,61971235171,Inválido,Produção Cervejeira
+950,202219455,DF,Brasília,61984284775,Inválido,Direito
+993,202219882,DF,Brasília,61972506258,Inválido,Fotografia
+996,202219909,DF,Brasília,61992491678,Inválido,Direito
+997,202219912,DF,Brasília,61969577541,Inválido,Fisioterapia
+25,202210234,ES,Vitória,27969457186,Inválido,Criminologia
+60,202210654,ES,Vitória,27999999999,Inválido,Nutrição
+65,202210685,ES,Vitória,27966666666,Inválido,Design de Interiores
+96,202210984,ES,Vitória,27983448551,Inválido,Educação Física
+151,202211623,ES,Vitória,27992253561,Inválido,Administração
+170,202211819,ES,Vitória,27973717236,Inválido,Negócios Imobiliários
+192,202212031,ES,Vitória,27994963130,Inválido,Biomedicina
+218,202212227,ES,Vitória,27983982932,Inválido,Gastronomia
+234,202212350,ES,Vitória,27989661207,Inválido,Biomedicina
+238,202212388,ES,Vitória,27976396811,Inválido,Biomedicina
+280,202212803,ES,Vitória,27989377016,Inválido,Engenharia Elétrica
+285,202212845,ES,Vitória,27999640331,Inválido,Teologia
+307,202213103,ES,Vitória,27999728565,Inválido,Teologia
+321,202213194,ES,Vitória,27994550871,Inválido,Arquitetura de Dados
+351,202213480,ES,Vitória,27994002011,Inválido,Engenharia de Software
+408,202214023,ES,Vitória,27968562147,Inválido,Desenvolvimento Web
+413,202214058,ES,Vitória,27986657298,Inválido,Farmácia
+483,202214711,ES,Vitória,27997351144,Inválido,Farmácia
+525,202215200,ES,Vitória,27983342244,Inválido,Produção Cervejeira
+644,202216341,ES,Vitória,27969457186,Inválido,Produção Cervejeira
+672,202216550,ES,Vitória,27992253561,Inválido,Gestão Pública
+689,202216692,ES,Vitória,27986375103,Inválido,Desenvolvimento Web
+691,202216707,ES,Vitória,27995366178,Inválido,Arquitetura de Dados
+707,202216836,ES,Vitória,27988587548,Inválido,Ciência de Dados
+752,202217212,ES,Vitória,27973827166,Inválido,Educação Física
+764,202217318,ES,Vitória,27996350528,Inválido,Teologia
+807,202217756,ES,Vitória,27979783848,Inválido,Fotografia
+839,202218160,ES,Vitória,27971669376,Inválido,Ciências Biológicas
+858,202218324,ES,Vitória,27979512870,Inválido,Fisioterapia
+874,202218437,ES,Vitória,27984972485,Inválido,Produção Cervejeira
+902,202218875,ES,Vitória,27992514117,Inválido,Gestão Pública
+915,202219097,ES,Vitória,27983746685,Inválido,Produção Cervejeira
+947,202219446,ES,Vitória,27993527241,Inválido,Análise e Desenvolvimento de Sistemas
+966,202219579,ES,Vitória,27995714621,Inválido,Engenharia Elétrica
+977,202219732,ES,Vitória,27976048843,Inválido,Ciências Biológicas
+10,202210060,GO,Goiânia,62980678805,Inválido,Radiologia
+17,202210144,GO,Goiânia,62984154501,Inválido,Biomedicina
+50,202210540,GO,Goiânia,62996124751,Inválido,Engenharia Elétrica
+169,202211809,GO,Goiânia,62980443884,Inválido,Engenharia de Software
+196,202212045,GO,Goiânia,62976642708,Inválido,Administração
+205,202212106,GO,Goiânia,62982108210,Inválido,Negócios Imobiliários
+208,202212141,GO,Goiânia,62994615871,Inválido,Administração
+229,202212318,GO,Goiânia,62984235532,Inválido,Negócios Imobiliários
+243,202212439,GO,Goiânia,62985190574,Inválido,Produção Cervejeira
+271,202212744,GO,Goiânia,62979131130,Inválido,Farmácia
+276,202212794,GO,Goiânia,62981685480,Inválido,Filosofia
+318,202213182,GO,Goiânia,62992500816,Inválido,Engenharia de Software
+319,202213190,GO,Goiânia,62994576927,Inválido,Design de Interiores
+324,202213209,GO,Goiânia,62988576667,Inválido,Radiologia
+329,202213244,GO,Goiânia,62980716125,Inválido,Administração
+355,202213525,GO,Goiânia,62994726927,Inválido,Farmácia
+360,202213559,GO,Goiânia,62985094730,Inválido,Fotografia
+377,202213760,GO,Goiânia,62999957420,Inválido,Teologia
+380,202213767,GO,Goiânia,62984623033,Inválido,Educação Física
+384,202213814,GO,Goiânia,62981878443,Inválido,Produção Cervejeira
+388,202213849,GO,Goiânia,62979873205,Inválido,Administração
+431,202214196,GO,Goiânia,62971174252,Inválido,Educação Física
+433,202214204,GO,Goiânia,62967835304,Inválido,Teologia
+489,202214803,GO,Goiânia,62982298028,Inválido,Criminologia
+501,202214914,GO,Goiânia,62976035553,Inválido,Produção Cervejeira
+531,202215243,GO,Goiânia,62982452726,Inválido,Ciência de Dados
+543,202215324,GO,Goiânia,62986913605,Inválido,Ciência de Dados
+555,202215451,GO,Goiânia,62967683766,Inválido,Design de Interiores
+590,202215826,GO,Goiânia,62985041877,Inválido,Desenvolvimento Web
+610,202216032,GO,Goiânia,62997454143,Inválido,Engenharia Civil
+637,202216276,GO,Goiânia,62971563749,Inválido,Arquitetura de Dados
+667,202216466,GO,Goiânia,62988770880,Inválido,Farmácia
+727,202216950,GO,Goiânia,62982862273,Inválido,Engenharia Civil
+796,202217627,GO,Goiânia,62985623170,Inválido,Gastronomia
+818,202217889,GO,Goiânia,62994656748,Inválido,Desenvolvimento Web
+823,202217940,GO,Goiânia,62983657972,Inválido,Engenharia Civil
+864,202218361,GO,Goiânia,62969047324,Inválido,Filosofia
+877,202218449,GO,Goiânia,62994908124,Inválido,Pedagogia
+893,202218772,GO,Goiânia,62979515622,Inválido,Fotografia
+911,202219020,GO,Goiânia,62987292335,Inválido,Biomedicina
+925,202219166,GO,Goiânia,62971015637,Inválido,Engenharia Civil
+938,202219313,GO,Goiânia,62987836507,Inválido,Gestão Pública
+944,202219391,GO,Goiânia,62985585862,Inválido,Gastronomia
+976,202219720,GO,Goiânia,62993781152,Inválido,Análise e Desenvolvimento de Sistemas
+47,202210515,MA,São Luís,98992431585,Inválido,Análise e Desenvolvimento de Sistemas
+67,202210728,MA,São Luís,98975676125,Inválido,Arquitetura de Dados
+87,202210897,MA,São Luís,98974793197,Inválido,Ciência de Dados
+102,202211041,MA,São Luís,98992881840,Inválido,Gastronomia
+123,202211326,MA,São Luís,98968732911,Inválido,Fisioterapia
+190,202212020,MA,São Luís,98968421764,Inválido,Educação Física
+245,202212447,MA,São Luís,98976828464,Inválido,Radiologia
+257,202212567,MA,São Luís,98968015517,Inválido,Ciência de Dados
+288,202212914,MA,São Luís,98994664338,Inválido,Educação Física
+304,202213085,MA,São Luís,98994643851,Inválido,Pedagogia
+308,202213103,MA,São Luís,98973790513,Inválido,Análise e Desenvolvimento de Sistemas
+332,202213286,MA,São Luís,98968857116,Inválido,Teologia
+358,202213545,MA,São Luís,98994716239,Inválido,Pedagogia
+426,202214184,MA,São Luís,98974493811,Inválido,Negócios Imobiliários
+484,202214714,MA,São Luís,98968163172,Inválido,Engenharia Elétrica
+488,202214799,MA,São Luís,98968485661,Inválido,Gastronomia
+546,202215354,MA,São Luís,98993556422,Inválido,Nutrição
+602,202215960,MA,São Luís,98992430372,Inválido,Engenharia de Software
+614,202216047,MA,São Luís,98976561690,Inválido,Desenvolvimento Web
+618,202216118,MA,São Luís,98976704993,Inválido,Desenvolvimento Web
+651,202216373,MA,São Luís,98992227736,Inválido,Ciência de Dados
+654,202216388,MA,São Luís,98975121755,Inválido,Fisioterapia
+679,202216631,MA,São Luís,98991876273,Inválido,Ciência de Dados
+681,202216647,MA,São Luís,98973336684,Inválido,Análise e Desenvolvimento de Sistemas
+702,202216812,MA,São Luís,98975828388,Inválido,Fotografia
+733,202217000,MA,São Luís,98974783731,Inválido,Filosofia
+739,202217074,MA,São Luís,98968644177,Inválido,Ciências Biológicas
+797,202217647,MA,São Luís,98973792128,Inválido,Arquitetura de Dados
+851,202218271,MA,São Luís,98994466963,Inválido,Desenvolvimento Web
+861,202218351,MA,São Luís,98993856475,Inválido,Administração
+890,202218713,MA,São Luís,98991765245,Inválido,Criminologia
+896,202218805,MA,São Luís,98975583811,Inválido,Teologia
+924,202219152,MA,São Luís,98976326473,Inválido,Engenharia de Software
+954,202219493,MA,São Luís,98976432238,Inválido,Engenharia Civil
+964,202219577,MA,São Luís,98974313131,Inválido,Arquitetura de Dados
+980,202219751,MA,São Luís,98991784323,Inválido,Engenharia Elétrica
+985,202219812,MA,São Luís,98974648664,Inválido,Educação Física
+4,202210023,MG,Belo Horizonte,31987556872,Inválido,Criminologia
+6,202210029,MG,Belo Horizonte,31975828855,Inválido,Farmácia
+8,202210043,MG,Belo Horizonte,31999834345,Inválido,Ciência de Dados
+20,202210191,MG,Belo Horizonte,31985381683,Inválido,Negócios Imobiliários
+48,202210528,MG,Belo Horizonte,31968598252,Inválido,Desenvolvimento Web
+138,202211470,MG,Belo Horizonte,31968134593,Inválido,Engenharia Elétrica
+199,202212052,MG,Belo Horizonte,31985055000,Inválido,Ciência de Dados
+203,202212084,MG,Belo Horizonte,31993634940,Inválido,Gestão Pública
+263,202212668,MG,Belo Horizonte,31971466636,Inválido,Farmácia
+269,202212743,MG,Belo Horizonte,31982397359,Inválido,Engenharia Civil
+326,202213227,MG,Belo Horizonte,31989545152,Inválido,Radiologia
+352,202213494,MG,Belo Horizonte,31999638039,Inválido,Nutrição
+421,202214127,MG,Belo Horizonte,31969481823,Inválido,Gestão Pública
+499,202214889,MG,Belo Horizonte,31968897825,Inválido,Fotografia
+504,202214925,MG,Belo Horizonte,31992546789,Inválido,Radiologia
+508,202214975,MG,Belo Horizonte,31987607446,Inválido,Análise e Desenvolvimento de Sistemas
+596,202215880,MG,Belo Horizonte,31991481426,Inválido,Design de Interiores
+603,202215965,MG,Belo Horizonte,31973103740,Inválido,Geografia
+611,202216032,MG,Belo Horizonte,31983592864,Inválido,Produção Cervejeira
+650,202216369,MG,Belo Horizonte,31981549735,Inválido,Gestão Pública
+661,202216427,MG,Belo Horizonte,31984638251,Inválido,Desenvolvimento Web
+676,202216574,MG,Belo Horizonte,31996368715,Inválido,Arquitetura de Dados
+731,202216994,MG,Belo Horizonte,31983554043,Inválido,Ciência de Dados
+740,202217094,MG,Belo Horizonte,31986454312,Inválido,Nutrição
+746,202217151,MG,Belo Horizonte,31967418818,Inválido,Geografia
+757,202217272,MG,Belo Horizonte,31982149916,Inválido,Geografia
+808,202217756,MG,Belo Horizonte,31997459585,Inválido,Engenharia Elétrica
+833,202218057,MG,Belo Horizonte,31995352237,Inválido,Radiologia
+846,202218226,MG,Belo Horizonte,31981237228,Inválido,Análise e Desenvolvimento de Sistemas
+906,202218989,MG,Belo Horizonte,31998485416,Inválido,Arquitetura de Dados
+933,202219259,MG,Belo Horizonte,31972571135,Inválido,Desenvolvimento Web
+942,202219331,MG,Belo Horizonte,31980538224,Inválido,Arquitetura de Dados
+955,202219497,MG,Belo Horizonte,31986051846,Inválido,Fisioterapia
+963,202219576,MG,Belo Horizonte,31979477322,Inválido,Gestão Pública
+973,202219673,MG,Belo Horizonte,31980887578,Inválido,Engenharia de Software
+989,202219855,MG,Belo Horizonte,31980199311,Inválido,Ciências Biológicas
+95,202210973,MS,Campo Grande,67982945321,Inválido,Design de Interiores
+98,202211002,MS,Campo Grande,67979242737,Inválido,Arquitetura de Dados
+103,202211056,MS,Campo Grande,67989844942,Inválido,Administração
+122,202211322,MS,Campo Grande,67969666358,Inválido,Farmácia
+126,202211351,MS,Campo Grande,67995204590,Inválido,Farmácia
+128,202211357,MS,Campo Grande,67982357170,Inválido,Produção Cervejeira
+137,202211449,MS,Campo Grande,67992517254,Inválido,Engenharia Civil
+147,202211574,MS,Campo Grande,67982858285,Inválido,Fotografia
+178,202211899,MS,Campo Grande,67987873134,Inválido,Pedagogia
+182,202211957,MS,Campo Grande,67971937412,Inválido,Biomedicina
+198,202212050,MS,Campo Grande,67987846265,Inválido,Filosofia
+264,202212671,MS,Campo Grande,67988426726,Inválido,Pedagogia
+330,202213245,MS,Campo Grande,67983546546,Inválido,Educação Física
+370,202213647,MS,Campo Grande,67971540971,Inválido,Ciência de Dados
+418,202214109,MS,Campo Grande,67982463836,Inválido,Direito
+498,202214873,MS,Campo Grande,67967356976,Inválido,Gastronomia
+514,202215043,MS,Campo Grande,67968732516,Inválido,Negócios Imobiliários
+535,202215261,MS,Campo Grande,67981790218,Inválido,Ciências Biológicas
+563,202215546,MS,Campo Grande,67984675838,Inválido,Teologia
+570,202215631,MS,Campo Grande,67989950480,Inválido,Engenharia Civil
+645,202216343,MS,Campo Grande,67989514710,Inválido,Administração
+668,202216474,MS,Campo Grande,67991839236,Inválido,Desenvolvimento Web
+697,202216754,MS,Campo Grande,67994020638,Inválido,Produção Cervejeira
+710,202216848,MS,Campo Grande,67989130071,Inválido,Radiologia
+715,202216882,MS,Campo Grande,67980416456,Inválido,Engenharia de Software
+749,202217170,MS,Campo Grande,67982753362,Inválido,Produção Cervejeira
+753,202217237,MS,Campo Grande,67981256243,Inválido,Direito
+763,202217306,MS,Campo Grande,67973876797,Inválido,Gastronomia
+780,202217506,MS,Campo Grande,67998672643,Inválido,Fisioterapia
+865,202218363,MS,Campo Grande,67995342324,Inválido,Negócios Imobiliários
+914,202219094,MS,Campo Grande,67980847398,Inválido,Direito
+943,202219338,MS,Campo Grande,67976155401,Inválido,Engenharia Civil
+7,202210042,MT,Cuiabá,66972250315,Inválido,Ciência de Dados
+16,202210113,MT,Cuiabá,65987785745,Inválido,Gastronomia
+29,202210287,MT,Cuiabá,65969091811,Inválido,Teologia
+54,202210577,MT,Cuiabá,65975714486,Inválido,Ciência de Dados
+61,202210661,MT,Cuiabá,65973784888,Inválido,Criminologia
+150,202211600,MT,Cuiabá,65999663495,Inválido,Teologia
+161,202211758,MT,Cuiabá,65982463560,Inválido,Produção Cervejeira
+166,202211796,MT,Cuiabá,65997833098,Inválido,Engenharia Elétrica
+195,202212041,MT,Cuiabá,65982838524,Inválido,Educação Física
+223,202212248,MT,Cuiabá,65972755673,Inválido,Geografia
+233,202212341,MT,Cuiabá,65992664966,Inválido,Criminologia
+254,202212531,MT,Cuiabá,65971634770,Inválido,Ciência de Dados
+261,202212640,MT,Cuiabá,65988187444,Inválido,Arquitetura de Dados
+266,202212698,MT,Cuiabá,66983712262,Inválido,Ciência de Dados
+268,202212721,MT,Cuiabá,65985075738,Inválido,Filosofia
+316,202213166,MT,Cuiabá,65973084646,Inválido,Engenharia de Software
+357,202213531,MT,Cuiabá,65979506768,Inválido,Produção Cervejeira
+417,202214078,MT,Cuiabá,66998814950,Inválido,Engenharia de Software
+422,202214131,MT,Cuiabá,65995658984,Inválido,Fisioterapia
+435,202214219,MT,Cuiabá,65987843782,Inválido,Gestão Pública
+476,202214656,MT,Cuiabá,65989542734,Inválido,Nutrição
+521,202215144,MT,Cuiabá,65997529326,Inválido,Desenvolvimento Web
+533,202215256,MT,Cuiabá,65979378962,Inválido,Produção Cervejeira
+538,202215275,MT,Cuiabá,65983945298,Inválido,Ciência de Dados
+606,202216004,MT,Cuiabá,65967732185,Inválido,Fotografia
+615,202216074,MT,Cuiabá,65979488737,Inválido,Administração
+625,202216191,MT,Cuiabá,65999534568,Inválido,Biomedicina
+648,202216356,MT,Cuiabá,65997315464,Inválido,Direito
+670,202216515,MT,Cuiabá,65968714287,Inválido,Administração
+685,202216669,MT,Cuiabá,65980550546,Inválido,Produção Cervejeira
+734,202217016,MT,Cuiabá,65987785745,Inválido,Pedagogia
+856,202218301,MT,Cuiabá,65992321178,Inválido,Ciência de Dados
+862,202218352,MT,Cuiabá,65998198078,Inválido,Teologia
+888,202218681,MT,Cuiabá,65979665462,Inválido,Gestão Pública
+909,202219002,MT,Cuiabá,65980144732,Inválido,Filosofia
+3,202210015,PA,Belém,91999188861,Inválido,Engenharia Elétrica
+13,202210071,PA,Belém,91986022115,Inválido,Radiologia
+41,202210469,PA,Belém,91985457831,Inválido,Gestão Pública
+108,202211134,PA,Belém,91997782187,Inválido,Engenharia Civil
+149,202211596,PA,Belém,91989445282,Inválido,Arquitetura de Dados
+187,202211994,PA,Belém,91979082504,Inválido,Teologia
+204,202212105,PA,Belém,91983031578,Inválido,Nutrição
+237,202212377,PA,Belém,91992766791,Inválido,Biomedicina
+281,202212824,PA,Belém,91995389366,Inválido,Educação Física
+312,202213145,PA,Belém,91989551510,Inválido,Ciência de Dados
+322,202213194,PA,Belém,91975899437,Inválido,Filosofia
+323,202213203,PA,Belém,91982272247,Inválido,Engenharia de Software
+386,202213835,PA,Belém,91987585636,Inválido,Fisioterapia
+401,202213975,PA,Belém,91997717005,Inválido,Ciência de Dados
+443,202214353,PA,Belém,91991875385,Inválido,Desenvolvimento Web
+448,202214386,PA,Belém,91991886816,Inválido,Educação Física
+528,202215222,PA,Belém,91987969616,Inválido,Engenharia Civil
+577,202215711,PA,Belém,91991597176,Inválido,Fotografia
+586,202215775,PA,Belém,91983810311,Inválido,Nutrição
+589,202215806,PA,Belém,91984376183,Inválido,Farmácia
+597,202215881,PA,Belém,91987453762,Inválido,Radiologia
+604,202215968,PA,Belém,91985859762,Inválido,Geografia
+793,202217588,PA,Belém,91976206504,Inválido,Produção Cervejeira
+845,202218202,PA,Belém,91994907510,Inválido,Arquitetura de Dados
+872,202218410,PA,Belém,91987731153,Inválido,Teologia
+883,202218569,PA,Belém,91975553584,Inválido,Pedagogia
+913,202219074,PA,Belém,91987476347,Inválido,Pedagogia
+923,202219148,PA,Belém,91984114232,Inválido,Pedagogia
+965,202219578,PA,Belém,91981635113,Inválido,Direito
+967,202219581,PA,Belém,91989025763,Inválido,Radiologia
+974,202219678,PA,Belém,91988336148,Inválido,Desenvolvimento Web
+14,202210075,PB,João Pessoa,83981963957,Inválido,Ciências Biológicas
+71,202210777,PB,João Pessoa,83986113456,Inválido,Negócios Imobiliários
+110,202211144,PB,João Pessoa,83995576281,Inválido,Desenvolvimento Web
+148,202211589,PB,João Pessoa,83976509272,Inválido,Ciência de Dados
+227,202212305,PB,João Pessoa,83980342876,Inválido,Direito
+253,202212527,PB,João Pessoa,83967883414,Inválido,Análise e Desenvolvimento de Sistemas
+270,202212743,PB,João Pessoa,83993575765,Inválido,Radiologia
+335,202213308,PB,João Pessoa,83971322467,Inválido,Filosofia
+363,202213573,PB,João Pessoa,83997136158,Inválido,Negócios Imobiliários
+379,202213764,PB,João Pessoa,83981082288,Inválido,Produção Cervejeira
+381,202213775,PB,João Pessoa,83981367317,Inválido,Fisioterapia
+441,202214276,PB,João Pessoa,83989531287,Inválido,Produção Cervejeira
+454,202214425,PB,João Pessoa,83972476543,Inválido,Design de Interiores
+524,202215183,PB,João Pessoa,83980166242,Inválido,Biomedicina
+529,202215230,PB,João Pessoa,83995853206,Inválido,Ciência de Dados
+576,202215694,PB,João Pessoa,83992771841,Inválido,Pedagogia
+634,202216254,PB,João Pessoa,83979477345,Inválido,Filosofia
+643,202216332,PB,João Pessoa,83998106726,Inválido,Análise e Desenvolvimento de Sistemas
+657,202216405,PB,João Pessoa,83969482085,Inválido,Arquitetura de Dados
+690,202216705,PB,João Pessoa,83972325053,Inválido,Administração
+694,202216740,PB,João Pessoa,83981947931,Inválido,Produção Cervejeira
+729,202216960,PB,João Pessoa,83982445364,Inválido,Engenharia Elétrica
+776,202217459,PB,João Pessoa,83981712718,Inválido,Nutrição
+814,202217808,PB,João Pessoa,83969321865,Inválido,Produção Cervejeira
+826,202217991,PB,João Pessoa,83997514577,Inválido,Análise e Desenvolvimento de Sistemas
+844,202218196,PB,João Pessoa,83979556587,Inválido,Análise e Desenvolvimento de Sistemas
+863,202218355,PB,João Pessoa,83976585435,Inválido,Teologia
+875,202218445,PB,João Pessoa,83972325053,Inválido,Nutrição
+908,202218994,PB,João Pessoa,83969871877,Inválido,Filosofia
+922,202219147,PB,João Pessoa,83980948556,Inválido,Biomedicina
+931,202219214,PB,João Pessoa,83982284033,Inválido,Negócios Imobiliários
+953,202219487,PB,João Pessoa,83993512751,Inválido,Criminologia
+961,202219545,PB,João Pessoa,83988734044,Inválido,Criminologia
+986,202219823,PB,João Pessoa,83972325053,Inválido,Filosofia
+987,202219845,PB,João Pessoa,83992634834,Inválido,Geografia
+21,202210194,PE,Recife,81969454467,Inválido,Engenharia Elétrica
+105,202211080,PE,Recife,81972235419,Inválido,Radiologia
+111,202211156,PE,Recife,81994379084,Inválido,Criminologia
+153,202211661,PE,Recife,81984375677,Inválido,Direito
+164,202211769,PE,Recife,81973583346,Inválido,Geografia
+176,202211886,PE,Recife,81988650325,Inválido,Geografia
+244,202212444,PE,Recife,81987946756,Inválido,Filosofia
+267,202212711,PE,Recife,81985693388,Inválido,Engenharia Elétrica
+346,202213416,PE,Recife,81969285424,Inválido,Engenharia Civil
+348,202213420,PE,Recife,81996482368,Inválido,Nutrição
+403,202213980,PE,Recife,81984244241,Inválido,Gastronomia
+405,202213994,PE,Recife,81967789710,Inválido,Pedagogia
+472,202214598,PE,Recife,81998222372,Inválido,Geografia
+513,202215025,PE,Recife,81995741444,Inválido,Engenharia de Software
+579,202215719,PE,Recife,81980268570,Inválido,Negócios Imobiliários
+620,202216149,PE,Recife,81967731062,Inválido,Direito
+653,202216382,PE,Recife,81995762419,Inválido,Direito
+680,202216632,PE,Recife,81971452897,Inválido,Criminologia
+688,202216686,PE,Recife,81980699342,Inválido,Fisioterapia
+692,202216728,PE,Recife,81991255531,Inválido,Engenharia Elétrica
+735,202217024,PE,Recife,81979087683,Inválido,Análise e Desenvolvimento de Sistemas
+795,202217609,PE,Recife,81993141306,Inválido,Análise e Desenvolvimento de Sistemas
+798,202217647,PE,Recife,81979039260,Inválido,Arquitetura de Dados
+816,202217861,PE,Recife,81998127673,Inválido,Direito
+830,202218049,PE,Recife,81979039260,Inválido,Ciências Biológicas
+848,202218258,PE,Recife,81981728463,Inválido,Administração
+871,202218398,PE,Recife,81969061227,Inválido,Geografia
+895,202218799,PE,Recife,81973789970,Inválido,Farmácia
+927,202219180,PE,Recife,81981686204,Inválido,Educação Física
+9,202210050,PI,Teresina,86998563469,Inválido,Criminologia
+31,202210300,PI,Teresina,86983026471,Inválido,Pedagogia
+33,202210357,PI,Teresina,86967547122,Inválido,Direito
+74,202210798,PI,Teresina,86993717729,Inválido,Produção Cervejeira
+78,202210818,PI,Teresina,86967840354,Inválido,Fotografia
+94,202210971,PI,Teresina,86969866057,Inválido,Engenharia Elétrica
+114,202211191,PI,Teresina,86986074386,Inválido,Design de Interiores
+116,202211210,PI,Teresina,86985374441,Inválido,Pedagogia
+231,202212333,PI,Teresina,86988625146,Inválido,Fotografia
+241,202212402,PI,Teresina,86994269651,Inválido,Teologia
+274,202212780,PI,Teresina,86975503654,Inválido,Direito
+309,202213123,PI,Teresina,86984698762,Inválido,Ciência de Dados
+349,202213428,PI,Teresina,86988157343,Inválido,Criminologia
+373,202213727,PI,Teresina,86999901012,Inválido,Arquitetura de Dados
+375,202213736,PI,Teresina,86979720840,Inválido,Biomedicina
+399,202213972,PI,Teresina,86984006337,Inválido,Fisioterapia
+434,202214217,PI,Teresina,86987532272,Inválido,Ciências Biológicas
+437,202214242,PI,Teresina,86979775776,Inválido,Engenharia Civil
+439,202214263,PI,Teresina,86996553164,Inválido,Geografia
+510,202215001,PI,Teresina,86993717729,Inválido,Negócios Imobiliários
+536,202215266,PI,Teresina,86996474397,Inválido,Teologia
+541,202215311,PI,Teresina,86983025991,Inválido,Ciência de Dados
+575,202215693,PI,Teresina,86986668838,Inválido,Biomedicina
+578,202215715,PI,Teresina,86973938705,Inválido,Fotografia
+599,202215906,PI,Teresina,86980188437,Inválido,Fisioterapia
+627,202216193,PI,Teresina,86999214272,Inválido,Farmácia
+629,202216209,PI,Teresina,86987887745,Inválido,Criminologia
+788,202217574,PI,Teresina,,Inválido,Farmácia
+824,202217948,PI,Teresina,86981143726,Inválido,Administração
+879,202218464,PI,Teresina,86991126528,Inválido,Análise e Desenvolvimento de Sistemas
+900,202218866,PI,Teresina,86995473145,Inválido,Arquitetura de Dados
+937,202219295,PI,Teresina,86997956258,Inválido,Design de Interiores
+939,202219319,PI,Teresina,86998727506,Inválido,Educação Física
+941,202219326,PI,Teresina,86968436345,Inválido,Arquitetura de Dados
+956,202219502,PI,Teresina,86998727506,Inválido,Engenharia de Software
+995,202219908,PI,Teresina,86994844591,Inválido,Análise e Desenvolvimento de Sistemas
+1,202210006,PR,Curitiba,41985663655,Inválido,Criminologia
+2,202210009,PR,Curitiba,41992526233,Inválido,Produção Cervejeira
+5,202210028,PR,Curitiba,41973240153,Inválido,Ciência de Dados
+37,202210421,PR,Curitiba,41980521308,Inválido,Nutrição
+72,202210778,PR,Curitiba,41986349765,Inválido,Produção Cervejeira
+73,202210781,PR,Curitiba,41979487565,Inválido,Produção Cervejeira
+120,202211261,PR,Curitiba,41985241483,Inválido,Fisioterapia
+121,202211320,PR,Curitiba,41993302208,Inválido,Análise e Desenvolvimento de Sistemas
+141,202211509,PR,Curitiba,41989763443,Inválido,Criminologia
+177,202211893,PR,Curitiba,41986488953,Inválido,Engenharia Elétrica
+258,202212584,PR,Curitiba,41988415491,Inválido,Design de Interiores
+259,202212595,PR,Curitiba,41967203668,Inválido,Radiologia
+283,202212831,PR,Curitiba,41986582211,Inválido,Fotografia
+341,202213358,PR,Curitiba,41997223543,Inválido,Geografia
+368,202213625,PR,Curitiba,41980323318,Inválido,Ciência de Dados
+374,202213732,PR,Curitiba,41983344747,Inválido,Análise e Desenvolvimento de Sistemas
+391,202213855,PR,Curitiba,41983321720,Inválido,Arquitetura de Dados
+411,202214026,PR,Curitiba,41969145248,Inválido,Administração
+424,202214159,PR,Curitiba,41982489205,Inválido,Direito
+458,202214438,PR,Curitiba,41971436493,Inválido,Farmácia
+463,202214488,PR,Curitiba,41997412382,Inválido,Engenharia de Software
+467,202214553,PR,Curitiba,41998684353,Inválido,Desenvolvimento Web
+491,202214813,PR,Curitiba,41997181774,Inválido,Farmácia
+497,202214872,PR,Curitiba,41982140648,Inválido,Engenharia de Software
+511,202215006,PR,Curitiba,41998748938,Inválido,Fisioterapia
+527,202215212,PR,Curitiba,41981891516,Inválido,Negócios Imobiliários
+534,202215256,PR,Curitiba,41986435843,Inválido,Ciências Biológicas
+598,202215887,PR,Curitiba,41974735767,Inválido,Criminologia
+619,202216148,PR,Curitiba,41992184623,Inválido,Educação Física
+623,202216186,PR,Curitiba,41989501653,Inválido,Engenharia Elétrica
+639,202216299,PR,Curitiba,41989437337,Inválido,Administração
+675,202216567,PR,Curitiba,41983570548,Inválido,Direito
+693,202216729,PR,Curitiba,41968589069,Inválido,Biomedicina
+713,202216861,PR,Curitiba,41968270061,Inválido,Pedagogia
+775,202217447,PR,Curitiba,41967947976,Inválido,Direito
+786,202217563,PR,Curitiba,41972387809,Inválido,Filosofia
+805,202217753,PR,Curitiba,41979487565,Inválido,Geografia
+813,202217800,PR,Curitiba,41975379976,Inválido,Teologia
+827,202217991,PR,Curitiba,41969051482,Inválido,Ciência de Dados
+838,202218139,PR,Curitiba,41984463315,Inválido,Fotografia
+843,202218192,PR,Curitiba,41968243169,Inválido,Radiologia
+850,202218266,PR,Curitiba,41972582702,Inválido,Teologia
+867,202218371,PR,Curitiba,41968378147,Inválido,Engenharia Elétrica
+876,202218448,PR,Curitiba,41975341995,Inválido,Direito
+882,202218520,PR,Curitiba,41971338055,Inválido,Geografia
+946,202219433,PR,Curitiba,41973572352,Inválido,Administração
+971,202219652,PR,Curitiba,41980314261,Inválido,Farmácia
+24,202210225,RJ,Rio de Janeiro,21987528491,Inválido,Direito
+26,202210272,RJ,Rio de Janeiro,21991687628,Inválido,Gestão Pública
+36,202210420,RJ,Rio de Janeiro,21975079061,Inválido,Ciências Biológicas
+42,202210476,RJ,Rio de Janeiro,21987878345,Inválido,Engenharia de Software
+101,202211040,RJ,Rio de Janeiro,21972554371,Inválido,Nutrição
+156,202211729,RJ,Rio de Janeiro,21976767744,Inválido,Fisioterapia
+173,202211858,RJ,Rio de Janeiro,21968657864,Inválido,Ciência de Dados
+200,202212056,RJ,Rio de Janeiro,21991116206,Inválido,Gastronomia
+216,202212218,RJ,Rio de Janeiro,21994587572,Inválido,Engenharia de Software
+275,202212781,RJ,Rio de Janeiro,21997376410,Inválido,Desenvolvimento Web
+306,202213101,RJ,Rio de Janeiro,21996544207,Inválido,Filosofia
+325,202213223,RJ,Rio de Janeiro,21982869205,Inválido,Engenharia Civil
+331,202213278,RJ,Rio de Janeiro,21212121212,Inválido,Engenharia Civil
+400,202213972,RJ,Rio de Janeiro,10101010101,Inválido,Direito
+416,202214073,RJ,Rio de Janeiro,21972165076,Inválido,Engenharia Civil
+438,202214256,RJ,Rio de Janeiro,21985236582,Inválido,Negócios Imobiliários
+451,202214392,RJ,Rio de Janeiro,21980586226,Inválido,Fisioterapia
+466,202214519,RJ,Rio de Janeiro,21982653813,Inválido,Produção Cervejeira
+493,202214826,RJ,Rio de Janeiro,21992361572,Inválido,Administração
+500,202214898,RJ,Rio de Janeiro,21969317214,Inválido,Ciências Biológicas
+506,202214948,RJ,Rio de Janeiro,21987679873,Inválido,Ciência de Dados
+547,202215359,RJ,Rio de Janeiro,21971466716,Inválido,Educação Física
+569,202215628,RJ,Rio de Janeiro,21972554371,Inválido,Engenharia Civil
+633,202216247,RJ,Rio de Janeiro,21984605076,Inválido,Engenharia Civil
+686,202216676,RJ,Rio de Janeiro,21979172875,Inválido,Fisioterapia
+687,202216684,RJ,Rio de Janeiro,21979469032,Inválido,Design de Interiores
+730,202216972,RJ,Rio de Janeiro,21972987641,Inválido,Direito
+751,202217188,RJ,Rio de Janeiro,21992449824,Inválido,Arquitetura de Dados
+791,202217580,RJ,Rio de Janeiro,21998817960,Inválido,Farmácia
+803,202217708,RJ,Rio de Janeiro,21986146872,Inválido,Farmácia
+825,202217954,RJ,Rio de Janeiro,21983461331,Inválido,Fotografia
+837,202218100,RJ,Rio de Janeiro,21987528491,Inválido,Geografia
+847,202218233,RJ,Rio de Janeiro,21980146920,Inválido,Farmácia
+859,202218329,RJ,Rio de Janeiro,21997879120,Inválido,Pedagogia
+873,202218436,RJ,Rio de Janeiro,21971324414,Inválido,Gestão Pública
+920,202219137,RJ,Rio de Janeiro,21982653813,Inválido,Produção Cervejeira
+11,202210068,RN,Natal,84994073057,Inválido,Negócios Imobiliários
+43,202210478,RN,Natal,84979573467,Inválido,Análise e Desenvolvimento de Sistemas
+55,202210594,RN,Natal,84998724364,Inválido,Engenharia Civil
+56,202210605,RN,Natal,84985137275,Inválido,Criminologia
+63,202210669,RN,Natal,84988353163,Inválido,Educação Física
+79,202210827,RN,Natal,11111111111,Inválido,Pedagogia
+90,202210935,RN,Natal,84999015779,Inválido,Negócios Imobiliários
+92,202210948,RN,Natal,84984423524,Inválido,Engenharia Elétrica
+125,202211334,RN,Natal,84888888888,Inválido,Fotografia
+129,202211360,RN,Natal,84988652853,Inválido,Gestão Pública
+139,202211472,RN,Natal,84988913821,Inválido,Ciências Biológicas
+146,202211556,RN,Natal,84981133905,Inválido,Gastronomia
+158,202211741,RN,Natal,84988445167,Inválido,Negócios Imobiliários
+174,202211862,RN,Natal,84998418470,Inválido,Ciências Biológicas
+207,202212130,RN,Natal,84981211760,Inválido,Geografia
+228,202212309,RN,Natal,84985159790,Inválido,Biomedicina
+236,202212374,RN,Natal,84985707115,Inválido,Negócios Imobiliários
+242,202212419,RN,Natal,84922222222,Inválido,Administração
+282,202212825,RN,Natal,84976576725,Inválido,Negócios Imobiliários
+371,202213670,RN,Natal,84989389824,Inválido,Radiologia
+371,202013670,RN,Natal,84989389824,Inválido,Educação Física
+371,202113670,RN,Natal,84989389824,Inválido,Enfermagem
+371,201913670,RN,Natal,84989389824,Inválido,Geografia
+392,202213895,RN,Natal,84999781337,Inválido,Produção Cervejeira
+453,202214414,RN,Natal,84999729672,Inválido,Pedagogia
+462,202214487,RN,Natal,84995444670,Inválido,Geografia
+464,202214496,RN,Natal,84983146531,Inválido,Arquitetura de Dados
+470,202214580,RN,Natal,84971918552,Inválido,Direito
+477,202214669,RN,Natal,84986108893,Inválido,Administração
+495,202214846,RN,Natal,84998734524,Inválido,Ciência de Dados
+520,202215132,RN,Natal,84966666666,Inválido,Produção Cervejeira
+523,202215155,RN,Natal,84986230477,Inválido,Pedagogia
+540,202215304,RN,Natal,84968895355,Inválido,Gestão Pública
+549,202215386,RN,Natal,84994392228,Inválido,Produção Cervejeira
+556,202215459,RN,Natal,84985267278,Inválido,Geografia
+561,202215540,RN,Natal,84982614208,Inválido,Administração
+567,202215616,RN,Natal,84994448758,Inválido,Gestão Pública
+630,202216211,RN,Natal,84987215485,Inválido,Fisioterapia
+632,202216245,RN,Natal,84966666666,Inválido,Farmácia
+724,202216925,RN,Natal,84984350876,Inválido,Fotografia
+741,202217111,RN,Natal,84981607088,Inválido,Pedagogia
+760,202217298,RN,Natal,84971918552,Inválido,Engenharia de Software
+761,202217301,RN,Natal,84989617481,Inválido,Direito
+812,202217791,RN,Natal,84992199146,Inválido,Farmácia
+77,202210806,RO,Porto Velho,69987203948,Inválido,Produção Cervejeira
+85,202210886,RO,Porto Velho,69972059027,Inválido,Ciências Biológicas
+154,202211677,RO,Porto Velho,69983744524,Inválido,Criminologia
+163,202211765,RO,Porto Velho,69989749963,Inválido,Nutrição
+256,202212560,RO,Porto Velho,69991733155,Inválido,Análise e Desenvolvimento de Sistemas
+320,202213193,RO,Porto Velho,69985902793,Inválido,Filosofia
+328,202213234,RO,Porto Velho,69994411536,Inválido,Ciência de Dados
+343,202213388,RO,Porto Velho,69987229511,Inválido,Teologia
+366,202213613,RO,Porto Velho,69967736141,Inválido,Engenharia Civil
+409,202214023,RO,Porto Velho,69969430843,Inválido,Ciência de Dados
+442,202214301,RO,Porto Velho,69983321493,Inválido,Fisioterapia
+452,202214411,RO,Porto Velho,69984812063,Inválido,Ciências Biológicas
+473,202214601,RO,Porto Velho,69900000000,Inválido,Design de Interiores
+551,202215388,RO,Porto Velho,69984534742,Inválido,Geografia
+554,202215445,RO,Porto Velho,69995248724,Inválido,Administração
+622,202216166,RO,Porto Velho,69994302857,Inválido,Gastronomia
+665,202216452,RO,Porto Velho,69991400853,Inválido,Geografia
+683,202216658,RO,Porto Velho,69981264314,Inválido,Geografia
+701,202216804,RO,Porto Velho,69979385815,Inválido,Arquitetura de Dados
+758,202217285,RO,Porto Velho,69982880282,Inválido,Negócios Imobiliários
+762,202217301,RO,Porto Velho,69983926675,Inválido,Gastronomia
+770,202217410,RO,Porto Velho,69991527245,Inválido,Nutrição
+787,202217563,RO,Porto Velho,69987457130,Inválido,Engenharia Elétrica
+854,202218279,RO,Porto Velho,69997053419,Inválido,Teologia
+857,202218311,RO,Porto Velho,69985340353,Inválido,Engenharia de Software
+928,202219184,RO,Porto Velho,69984553258,Inválido,Educação Física
+932,202219242,RO,Porto Velho,69983390665,Inválido,Biomedicina
+948,202219448,RO,Porto Velho,69968254546,Inválido,Engenharia Elétrica
+949,202219449,RO,Porto Velho,69991526320,Inválido,Geografia
+35,202210392,RR,Boa Vista,95971878726,Inválido,Radiologia
+93,202210963,RR,Boa Vista,95995629517,Inválido,Educação Física
+106,202211086,RR,Boa Vista,95979236217,Inválido,Criminologia
+152,202211630,RR,Boa Vista,95976444653,Inválido,Administração
+212,202212157,RR,Boa Vista,95983967355,Inválido,Design de Interiores
+226,202212298,RR,Boa Vista,95996552458,Inválido,Pedagogia
+291,202212949,RR,Boa Vista,95980258272,Inválido,Ciência de Dados
+337,202213337,RR,Boa Vista,95976442785,Inválido,Radiologia
+354,202213518,RR,Boa Vista,95999877734,Inválido,Fotografia
+369,202213636,RR,Boa Vista,95971723886,Inválido,Negócios Imobiliários
+394,202213913,RR,Boa Vista,95992757956,Inválido,Radiologia
+414,202214064,RR,Boa Vista,95988888888,Inválido,Administração
+425,202214179,RR,Boa Vista,95979827466,Inválido,Desenvolvimento Web
+428,202214186,RR,Boa Vista,95982841602,Inválido,Design de Interiores
+475,202214653,RR,Boa Vista,95975189275,Inválido,Engenharia Elétrica
+505,202214930,RR,Boa Vista,95983035213,Inválido,Produção Cervejeira
+552,202215388,RR,Boa Vista,95922222222,Inválido,Nutrição
+560,202215536,RR,Boa Vista,95968187474,Inválido,Negócios Imobiliários
+591,202215846,RR,Boa Vista,,Inválido,Teologia
+621,202216157,RR,Boa Vista,95974950682,Inválido,Radiologia
+631,202216242,RR,Boa Vista,95983231745,Inválido,Arquitetura de Dados
+641,202216321,RR,Boa Vista,95994390331,Inválido,Negócios Imobiliários
+663,202216444,RR,Boa Vista,95986758532,Inválido,Gestão Pública
+677,202216593,RR,Boa Vista,95971813524,Inválido,Fotografia
+682,202216656,RR,Boa Vista,95976038510,Inválido,Engenharia de Software
+706,202216835,RR,Boa Vista,95984886283,Inválido,Filosofia
+712,202216856,RR,Boa Vista,95989827254,Inválido,Produção Cervejeira
+754,202217246,RR,Boa Vista,95988269551,Inválido,Filosofia
+779,202217504,RR,Boa Vista,95968503858,Inválido,Negócios Imobiliários
+781,202217516,RR,Boa Vista,95979244214,Inválido,Engenharia Elétrica
+801,202217702,RR,Boa Vista,95969080760,Inválido,Engenharia de Software
+899,202218852,RR,Boa Vista,95996614105,Inválido,Ciências Biológicas
+934,202219264,RR,Boa Vista,95986094220,Inválido,Fisioterapia
+935,202219275,RR,Boa Vista,95972575419,Inválido,Radiologia
+975,202219686,RR,Boa Vista,95988497279,Inválido,Ciências Biológicas
+1000,202219965,RR,Boa Vista,95967831032,Inválido,Desenvolvimento Web
+22,202210207,RS,Porto Alegre,51985757523,Inválido,Filosofia
+27,202210279,RS,Porto Alegre,,Inválido,Engenharia Civil
+34,202210358,RS,Porto Alegre,51986787934,Inválido,Nutrição
+83,202210841,RS,Porto Alegre,51968450224,Inválido,Negócios Imobiliários
+84,202210864,RS,Porto Alegre,51984083385,Inválido,Gestão Pública
+104,202211070,RS,Porto Alegre,51974729503,Inválido,Produção Cervejeira
+145,202211545,RS,Porto Alegre,,Inválido,Teologia
+186,202211989,RS,Porto Alegre,51969120997,Inválido,Pedagogia
+188,202212006,RS,Porto Alegre,51980663651,Inválido,Administração
+251,202212499,RS,Porto Alegre,51981056445,Inválido,Biomedicina
+272,202212757,RS,Porto Alegre,51994750517,Inválido,Fisioterapia
+296,202213035,RS,Porto Alegre,51973847188,Inválido,Engenharia de Software
+315,202213154,RS,Porto Alegre,51967185755,Inválido,Ciências Biológicas
+334,202213306,RS,Porto Alegre,51996392108,Inválido,Ciência de Dados
+347,202213418,RS,Porto Alegre,51986707574,Inválido,Design de Interiores
+364,202213585,RS,Porto Alegre,51976775881,Inválido,Engenharia de Software
+385,202213831,RS,Porto Alegre,51983424539,Inválido,Criminologia
+389,202213849,RS,Porto Alegre,51999764846,Inválido,Nutrição
+396,202213919,RS,Porto Alegre,51984083385,Inválido,Gastronomia
+404,202213990,RS,Porto Alegre,51994754025,Inválido,Fotografia
+412,202214044,RS,Porto Alegre,51979514025,Inválido,Nutrição
+469,202214574,RS,Porto Alegre,51989157848,Inválido,Arquitetura de Dados
+485,202214768,RS,Porto Alegre,51980332839,Inválido,Produção Cervejeira
+496,202214854,RS,Porto Alegre,51988794949,Inválido,Ciência de Dados
+516,202215086,RS,Porto Alegre,51998880595,Inválido,Ciências Biológicas
+517,202215101,RS,Porto Alegre,51982237520,Inválido,Criminologia
+526,202215210,RS,Porto Alegre,51993647417,Inválido,Engenharia Elétrica
+562,202215545,RS,Porto Alegre,51993463196,Inválido,Administração
+571,202215646,RS,Porto Alegre,51991533369,Inválido,Arquitetura de Dados
+574,202215668,RS,Porto Alegre,51972210070,Inválido,Análise e Desenvolvimento de Sistemas
+612,202216034,RS,Porto Alegre,51972210070,Inválido,Design de Interiores
+660,202216419,RS,Porto Alegre,51993096141,Inválido,Engenharia de Software
+664,202216448,RS,Porto Alegre,51984310631,Inválido,Ciências Biológicas
+678,202216627,RS,Porto Alegre,51992223663,Inválido,Criminologia
+705,202216828,RS,Porto Alegre,51985027777,Inválido,Radiologia
+718,202216887,RS,Porto Alegre,51999334912,Inválido,Produção Cervejeira
+726,202216943,RS,Porto Alegre,51973718351,Inválido,Análise e Desenvolvimento de Sistemas
+736,202217024,RS,Porto Alegre,51995086777,Inválido,Design de Interiores
+742,202217118,RS,Porto Alegre,51985318710,Inválido,Engenharia Elétrica
+777,202217469,RS,Porto Alegre,51981767754,Inválido,Engenharia de Software
+783,202217524,RS,Porto Alegre,51989384263,Inválido,Pedagogia
+815,202217843,RS,Porto Alegre,51982237520,Inválido,Gestão Pública
+819,202217890,RS,Porto Alegre,51969339474,Inválido,Farmácia
+829,202218001,RS,Porto Alegre,51995783442,Inválido,Radiologia
+841,202218183,RS,Porto Alegre,51999648801,Inválido,Farmácia
+884,202218573,RS,Porto Alegre,51989384263,Inválido,Negócios Imobiliários
+903,202218939,RS,Porto Alegre,51993391433,Inválido,Design de Interiores
+912,202219050,RS,Porto Alegre,51969120997,Inválido,Educação Física
+940,202219321,RS,Porto Alegre,51993863321,Inválido,Engenharia Civil
+962,202219555,RS,Porto Alegre,51969516198,Inválido,Arquitetura de Dados
+972,202219663,RS,Porto Alegre,51979773333,Inválido,Biomedicina
+23,202210212,SC,Florianópolis,48972440717,Inválido,Análise e Desenvolvimento de Sistemas
+30,202210297,SC,Florianópolis,48984618573,Inválido,Educação Física
+49,202210530,SC,Florianópolis,48973173020,Inválido,Engenharia de Software
+91,202210942,SC,Florianópolis,48982386299,Inválido,Arquitetura de Dados
+117,202211210,SC,Florianópolis,48972151672,Inválido,Geografia
+194,202212040,SC,Florianópolis,48993687814,Inválido,Ciência de Dados
+220,202212235,SC,Florianópolis,48980150496,Inválido,Geografia
+247,202212456,SC,Florianópolis,48982653922,Inválido,Geografia
+249,202212489,SC,Florianópolis,48991736533,Inválido,Educação Física
+252,202212509,SC,Florianópolis,48999999999,Inválido,Gestão Pública
+292,202212962,SC,Florianópolis,48911111111,Inválido,Pedagogia
+333,202213291,SC,Florianópolis,48986663885,Inválido,Direito
+372,202213673,SC,Florianópolis,48988722764,Inválido,Radiologia
+397,202213936,SC,Florianópolis,48973615364,Inválido,Design de Interiores
+407,202214013,SC,Florianópolis,48986021535,Inválido,Direito
+410,202214023,SC,Florianópolis,48987849365,Inválido,Radiologia
+550,202215387,SC,Florianópolis,48981552576,Inválido,Direito
+557,202215464,SC,Florianópolis,48969378387,Inválido,Engenharia de Software
+564,202215585,SC,Florianópolis,48992439021,Inválido,Farmácia
+566,202215612,SC,Florianópolis,48987971543,Inválido,Teologia
+646,202216350,SC,Florianópolis,48979429358,Inválido,Ciência de Dados
+656,202216399,SC,Florianópolis,48980150496,Inválido,Produção Cervejeira
+695,202216742,SC,Florianópolis,48973825574,Inválido,Geografia
+699,202216797,SC,Florianópolis,48975127527,Inválido,Pedagogia
+700,202216802,SC,Florianópolis,48988679561,Inválido,Criminologia
+708,202216841,SC,Florianópolis,48997449402,Inválido,Gestão Pública
+721,202216903,SC,Florianópolis,48992079297,Inválido,Gastronomia
+737,202217036,SC,Florianópolis,48971682962,Inválido,Design de Interiores
+747,202217155,SC,Florianópolis,48969987167,Inválido,Engenharia Civil
+759,202217295,SC,Florianópolis,48984265852,Inválido,Geografia
+765,202217330,SC,Florianópolis,48992819285,Inválido,Negócios Imobiliários
+769,202217402,SC,Florianópolis,48976666666,Inválido,Filosofia
+821,202217900,SC,Florianópolis,48999655513,Inválido,Teologia
+853,202218277,SC,Florianópolis,48972440717,Inválido,Análise e Desenvolvimento de Sistemas
+855,202218285,SC,Florianópolis,48983453749,Inválido,Teologia
+889,202218686,SC,Florianópolis,48998898836,Inválido,Negócios Imobiliários
+891,202218721,SC,Florianópolis,48972325623,Inválido,Criminologia
+968,202219581,SC,Florianópolis,48987776231,Inválido,Nutrição
+979,202219743,SC,Florianópolis,48911111111,Inválido,Ciências Biológicas
+988,202219849,SC,Florianópolis,48998864513,Inválido,Filosofia
+32,202210328,SE,Aracaju,79974385842,Inválido,Farmácia
+45,202210509,SE,Aracaju,79968799341,Inválido,Radiologia
+86,202210888,SE,Aracaju,79992149365,Inválido,Filosofia
+113,202211178,SE,Aracaju,79975192493,Inválido,Criminologia
+179,202211911,SE,Aracaju,79993063255,Inválido,Engenharia Civil
+183,202211961,SE,Aracaju,79992592046,Inválido,Farmácia
+184,202211970,SE,Aracaju,79991004573,Inválido,Pedagogia
+214,202212180,SE,Aracaju,79974778665,Inválido,Fotografia
+225,202212287,SE,Aracaju,79976275572,Inválido,Fotografia
+301,202213066,SE,Aracaju,79994118433,Inválido,Fisioterapia
+339,202213344,SE,Aracaju,79968447686,Inválido,Engenharia Elétrica
+390,202213851,SE,Aracaju,79974028459,Inválido,Engenharia Elétrica
+459,202214445,SE,Aracaju,79991145514,Inválido,Educação Física
+474,202214616,SE,Aracaju,79976775148,Inválido,Ciência de Dados
+515,202215058,SE,Aracaju,79992647537,Inválido,Fisioterapia
+539,202215278,SE,Aracaju,79993116476,Inválido,Teologia
+559,202215519,SE,Aracaju,79992137307,Inválido,Geografia
+572,202215651,SE,Aracaju,79992592046,Inválido,Filosofia
+592,202215847,SE,Aracaju,79977777777,Inválido,Teologia
+628,202216197,SE,Aracaju,79973835527,Inválido,Engenharia Civil
+666,202216461,SE,Aracaju,79975118589,Inválido,Gastronomia
+684,202216662,SE,Aracaju,79991450669,Inválido,Desenvolvimento Web
+711,202216849,SE,Aracaju,79993897210,Inválido,Direito
+717,202216886,SE,Aracaju,79975395435,Inválido,Engenharia de Software
+728,202216959,SE,Aracaju,79993150479,Inválido,Biomedicina
+732,202216995,SE,Aracaju,79976979285,Inválido,Administração
+744,202217138,SE,Aracaju,79968271252,Inválido,Geografia
+756,202217269,SE,Aracaju,79975603147,Inválido,Teologia
+817,202217880,SE,Aracaju,79968568947,Inválido,Radiologia
+831,202218052,SE,Aracaju,79976088854,Inválido,Biomedicina
+832,202218056,SE,Aracaju,79993635744,Inválido,Gastronomia
+849,202218263,SE,Aracaju,79994762637,Inválido,Desenvolvimento Web
+868,202218378,SE,Aracaju,79968103187,Inválido,Engenharia Civil
+880,202218465,SE,Aracaju,79976801295,Inválido,Ciência de Dados
+881,202218486,SE,Aracaju,79994580385,Inválido,Criminologia
+887,202218660,SE,Aracaju,79991148466,Inválido,Filosofia
+898,202218850,SE,Aracaju,79968271156,Inválido,Produção Cervejeira
+918,202219129,SE,Aracaju,79973505757,Inválido,Engenharia de Software
+992,202219877,SE,Aracaju,79992604712,Inválido,Fisioterapia
+998,202219923,SE,Aracaju,79991952233,Inválido,Educação Física
+51,202210548,SP,São Paulo,11992271821,Inválido,Direito
+135,202211424,SP,São Paulo,11998206872,Inválido,Desenvolvimento Web
+172,202211845,SP,São Paulo,11995813746,Inválido,Negócios Imobiliários
+180,202211922,SP,São Paulo,11986568714,Inválido,Produção Cervejeira
+191,202212020,SP,São Paulo,11981666882,Inválido,Biomedicina
+219,202212232,SP,São Paulo,11972817346,Inválido,Direito
+239,202212398,SP,São Paulo,11994401534,Inválido,Arquitetura de Dados
+265,202212688,SP,São Paulo,11981468366,Inválido,Filosofia
+277,202212795,SP,São Paulo,11999579649,Inválido,Nutrição
+340,202213344,SP,São Paulo,11974345536,Inválido,Gastronomia
+359,202213548,SP,São Paulo,11985245402,Inválido,Nutrição
+365,202213587,SP,São Paulo,11981196551,Inválido,Gestão Pública
+423,202214147,SP,São Paulo,11967038703,Inválido,Educação Física
+427,202214185,SP,São Paulo,11975481358,Inválido,Gestão Pública
+440,202214275,SP,São Paulo,11979246064,Inválido,Ciências Biológicas
+487,202214788,SP,São Paulo,11999047384,Inválido,Design de Interiores
+503,202214924,SP,São Paulo,11986568714,Inválido,Produção Cervejeira
+532,202215249,SP,São Paulo,11989463408,Inválido,Ciências Biológicas
+573,202215655,SP,São Paulo,11999447666,Inválido,Teologia
+607,202216017,SP,São Paulo,11988235122,Inválido,Desenvolvimento Web
+624,202216188,SP,São Paulo,11994841051,Inválido,Negócios Imobiliários
+635,202216259,SP,São Paulo,11991111111,Inválido,Pedagogia
+640,202216319,SP,São Paulo,11972351336,Inválido,Arquitetura de Dados
+709,202216847,SP,São Paulo,11985459617,Inválido,Análise e Desenvolvimento de Sistemas
+755,202217250,SP,São Paulo,11991111111,Inválido,Biomedicina
+799,202217655,SP,São Paulo,11999898582,Inválido,Negócios Imobiliários
+852,202218275,SP,São Paulo,11997540738,Inválido,Fotografia
+869,202218389,SP,São Paulo,11999000000,Inválido,Teologia
+886,202218629,SP,São Paulo,11976258945,Inválido,Ciência de Dados
+897,202218822,SP,São Paulo,11994154870,Inválido,Design de Interiores
+901,202218874,SP,São Paulo,11993333333,Inválido,Fotografia
+960,202219542,SP,São Paulo,11986434736,Inválido,Filosofia
+969,202219588,SP,São Paulo,,Inválido,Fisioterapia
+994,202219905,SP,São Paulo,11999447666,Inválido,Arquitetura de Dados
+15,202210082,TO,Palmas,63967969513,Inválido,Administração
+39,202210440,TO,Palmas,63991455562,Inválido,Filosofia
+97,202210996,TO,Palmas,63994839606,Inválido,Produção Cervejeira
+107,202211133,TO,Palmas,63997623534,Inválido,Análise e Desenvolvimento de Sistemas
+143,202211532,TO,Palmas,63981807038,Inválido,Gestão Pública
+209,202212145,TO,Palmas,63999999999,Inválido,Negócios Imobiliários
+211,202212155,TO,Palmas,63976035867,Inválido,Nutrição
+213,202212170,TO,Palmas,63996156863,Inválido,Análise e Desenvolvimento de Sistemas
+240,202212401,TO,Palmas,63997460378,Inválido,Radiologia
+311,202213137,TO,Palmas,63984711582,Inválido,Análise e Desenvolvimento de Sistemas
+336,202213312,TO,Palmas,63986876655,Inválido,Análise e Desenvolvimento de Sistemas
+350,202213450,TO,Palmas,63997642641,Inválido,Negócios Imobiliários
+361,202213561,TO,Palmas,63975559507,Inválido,Ciência de Dados
+367,202213621,TO,Palmas,63991367876,Inválido,Gestão Pública
+382,202213798,TO,Palmas,63998573989,Inválido,Análise e Desenvolvimento de Sistemas
+402,202213976,TO,Palmas,63991229545,Inválido,Radiologia
+420,202214125,TO,Palmas,63982184521,Inválido,Gastronomia
+429,202214190,TO,Palmas,63971774354,Inválido,Fotografia
+436,202214222,TO,Palmas,63997938543,Inválido,Direito
+444,202214356,TO,Palmas,63999936826,Inválido,Biomedicina
+465,202214505,TO,Palmas,63971750181,Inválido,Nutrição
+471,202214595,TO,Palmas,63980827647,Inválido,Arquitetura de Dados
+479,202214681,TO,Palmas,63984881160,Inválido,Fotografia
+486,202214781,TO,Palmas,63985325867,Inválido,Design de Interiores
+490,202214811,TO,Palmas,63991250338,Inválido,Biomedicina
+509,202214994,TO,Palmas,63983375614,Inválido,Radiologia
+544,202215324,TO,Palmas,63982139324,Inválido,Geografia
+553,202215393,TO,Palmas,63997651263,Inválido,Administração
+568,202215625,TO,Palmas,63997837038,Inválido,Farmácia
+594,202215868,TO,Palmas,63987541783,Inválido,Gestão Pública
+600,202215907,TO,Palmas,63999324536,Inválido,Biomedicina
+647,202216352,TO,Palmas,63987233271,Inválido,Teologia
+658,202216413,TO,Palmas,63987452216,Inválido,Gastronomia
+714,202216881,TO,Palmas,63989315710,Inválido,Teologia
+716,202216885,TO,Palmas,63989186864,Inválido,Ciências Biológicas
+745,202217149,TO,Palmas,63982276644,Inválido,Nutrição
+771,202217410,TO,Palmas,63979328523,Inválido,Produção Cervejeira
+804,202217742,TO,Palmas,63979489768,Inválido,Teologia
+809,202217760,TO,Palmas,63988888888,Inválido,Radiologia
+840,202218170,TO,Palmas,63995130349,Inválido,Filosofia
+892,202218758,TO,Palmas,63993173630,Inválido,Direito
