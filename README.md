@@ -1,1 +1,50 @@
-# validacao-cadastro-usuarios-biblioteca
+# Validação do cadastro de usuários da biblioteca
+
+<p align="left"> 
+<img src="https://images.unsplash.com/photo-1564981797816-1043664bf78d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"></a> 
+</p>
+
+photo by [Drahomír Posteby-Mach](https://unsplash.com/@postebymach) on [Unsplash](https://unsplash.com/)
+
+
+Elaborado por Francico Foz
+
+<a href="https://img.shields.io/badge/author-gustavolq-blue.svg)](https://www.linkedin.com/in/francisco-tadeu-foz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+---
+
+Olá! 
+
+Neste repositório você encontrará o projeto do meu [artigo]() 
+
+
+## Resumo
+Uma biblioteca universitária, no Brasil, está validando os dados do cadastro de seus usuários, para que possam entrar em contato.
+O e-mail é a comunicação ideal para entrar em contato, por isso já foi feita a validação. Entretanto nem todos os usuários possuem no cadastro um e-mail válido e a segunda opção seria o número de celular.
+Mas o número de celular não é validado inteiramente no formulário da página web do cadastro e números repetidos ou incorretos podem aparecer. 
+
+Quais são os usuários da biblioteca que não possuem um número de celular válido?
+Com essas informações a equipe da direção da biblioteca poderá montar um plano de ação para de alguma forma corrigir o cadastro.
+
+Também está disponível a tabela destes usuários no banco de dados da matrícula da universidade e do cadastro inicial do comercial. Para verificar se não estão corretos nestes outros.
+
+### Dataset
+
+Os conjuntos de dados são fictícios e criados por mim. 
+
+Você poderá acessar os dados utilizados nesta análise [aqui] no Kaggle(https://www.kaggle.com/datasets/franciscotadeufoz/validacao-cadastro-usuarios-biblioteca).
+
+
+### Desenvolvimento do projeto
+
+Desenvolvi uma classe que pudesse validar os números de celular com Regex e me retornar o número formatado ou se ele era inválido.
+
+Dentre os números inválidos, verifiquei nas demais tabelas (matrícula e comercial) quais estariam corretos. 
+Desta forma obtive uma lista de 22 números inválidos para que possam montar um plano de ação de correção.
+
+Você pode conferir o projeto completo no notebook do repositório.
+
+## Considerações finais
+
+A validação de dados é uma forma de se garantir a sua acuracidade.
+O ideal é que ela seja realizada no "input" (entrada) dos dados, entretanto nem sempre é a realidade e é necessário realizar uma validação nos dados já preenchidos.
