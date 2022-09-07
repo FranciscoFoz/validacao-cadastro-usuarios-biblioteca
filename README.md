@@ -1,8 +1,20 @@
 # Validação do cadastro de usuários da biblioteca
 
-<p align="left"> 
-<img src="https://images.unsplash.com/photo-1564981797816-1043664bf78d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"></a> 
-</p>
+Neste repositório você encontrará as informações do meu projeto que elaborei para reforçar os conhecimentos do curso da Alura, [Python Brasil: validação de dados no padrão nacional](https://www.alura.com.br/curso-online-python-validacao-dados). 
+
+O objetivo desse projeto foi validar os dados de cadastro do número de celular de uma biblioteca, para que se possa manter a qualidade do cadastro e relacionamento com os usuários da biblioteca.
+
+
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Validação do cadastro de usuários da biblioteca**
+| :label: Tecnologias | python
+| :rocket: URL         | https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://images.unsplash.com/photo-1564981797816-1043664bf78d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80#vitrinedev)
 
 photo by [Drahomír Posteby-Mach](https://unsplash.com/@postebymach) on [Unsplash](https://unsplash.com/)
 
@@ -32,7 +44,7 @@ Também está disponível a tabela destes usuários no banco de dados da matríc
 
 Os conjuntos de dados são fictícios e criados por mim. 
 
-Você poderá acessar os dados utilizados nesta análise [aqui] no Kaggle(https://www.kaggle.com/datasets/franciscotadeufoz/validacao-cadastro-usuarios-biblioteca).
+Você poderá acessar os dados utilizados nesta análise [aqui](https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca/blob/main/Notebook/Validacao_cadastro_usuario_biblioteca.ipynb) no [Kaggle](https://www.kaggle.com/datasets/franciscotadeufoz/validacao-cadastro-usuarios-biblioteca).
 
 
 ### Desenvolvimento do projeto
